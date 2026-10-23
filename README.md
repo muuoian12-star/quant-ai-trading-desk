@@ -1,1 +1,4 @@
-# quant-ai-trading-desk
+streamlit
+pandas
+numpy
+plotly
